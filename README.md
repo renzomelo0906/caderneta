@@ -4,6 +4,15 @@ App de controle acadêmico para Windows: notas com fórmulas de média, horário
 
 Feito com Electron 45, React 19 e Vite 7.
 
+## Baixar
+
+**[Baixar a versão mais recente](https://github.com/renzomelo0906/caderneta/releases/latest)**: em *Assets*, baixe o `Caderneta-Setup-<versão>.exe`.
+
+1. Abra o arquivo. O Windows pode mostrar "O Windows protegeu o computador", porque o instalador não tem assinatura digital. Clique em **Mais informações** e depois em **Executar assim mesmo**.
+2. Siga o instalador. O app abre sem nenhuma conta: é só criar a sua.
+
+Windows 10 ou 11, 64 bits.
+
 ## Telas
 
 | Tela | O que tem |
