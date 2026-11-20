@@ -13,6 +13,8 @@ Feito com Electron 45, React 19 e Vite 7.
 
 Windows 10 ou 11, 64 bits.
 
+> Baixe só por este link. Cada instalador oficial tem o SHA-256 na página do release; se alguém te passar um `.exe` da Caderneta por outro lugar, não é oficial.
+
 ## Telas
 
 | Tela | O que tem |
@@ -122,3 +124,7 @@ src/
 scripts/         dev, testes, smoke test e geração do ícone
 build/           ícone do instalador
 ```
+
+## Licença
+
+Todos os direitos reservados. O código está público só para consulta: copiar, modificar, redistribuir ou vender, no todo ou em parte, precisa de autorização por escrito. Detalhes em [LICENSE](LICENSE).
